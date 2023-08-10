@@ -1,6 +1,6 @@
 #
 <h1 align="center">Yo!🤟<br>I'm Nikhil Kerkar</h1>
-<h4 align="center">A Human with curiousity for 0 s . 1 s </h4>
+<h4 align="center">A human curious for 0 s . 1 s </h4>
  
 
 # 💻 Tech Stack:
