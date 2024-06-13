@@ -1,6 +1,6 @@
 #
 <h1 align="center">Yo!🤟<br>I'm Nikhil Kerkar</h1>
-<h4 align="center">A human curious for 0 s . 1 s </h4>
+<h4 align="center">Exploring the infinite possibilities within the realm of 0s . 1s </br> one bit at a time.  </h4>
  
 
 # 💻 Tech Stack:
